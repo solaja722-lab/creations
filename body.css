@@ -1,0 +1,16 @@
+div{
+background-color: gainsboro;
+padding: 20px;
+border-radius: 10px;
+width: 300px;
+text-align: center;
+margin: 50px auto;
+}
+.victor{
+     background-color:blue;
+     width: fit-content;
+     text-align: center;
+}
+span{
+    color: green;
+}
